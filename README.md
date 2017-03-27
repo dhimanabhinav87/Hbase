@@ -1,4 +1,4 @@
-# Hbase
+# Hbase Operations Java Implementation
 This repository has a java class that implements java hbase operations.
 1)	Create a table named emp in HBase with two column families:companyinfo, personalinfo
 hbase> create 'emp','companyinfo','personalinfo'
